@@ -1,6 +1,6 @@
 --- 
 jobs: 
-  name: ~
+  name: 
   runs-on: ubuntu-latest
   steps: 
     - 
