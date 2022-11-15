@@ -6,4 +6,4 @@ def welcome():
 
 
 print("Good Bye")
-welcome()
+welcome();
